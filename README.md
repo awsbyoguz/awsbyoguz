@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there! I'm Oguz
 
-<!--
-**awsbyoguz/awsbyoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 I'm a cloud and Linux enthusiast who specializes in setting up and managing secure servers on AWS.  
+🌩️ I work with Amazon Web Services like EC2, S3, and Route53 to deliver scalable cloud solutions.  
+🔐 I help developers and businesses deploy, configure, and secure their Linux-based systems through terminal-focused workflows.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Use
+- Amazon Web Services (AWS)
+- Linux (Ubuntu)
+- Nginx, Apache
+- SSL / Let's Encrypt
+- Bash scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me: baseroguz@gmail.com  
+🌐 Fiverr: https://fiverr.com/awsbyoguz
